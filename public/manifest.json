@@ -1,0 +1,9 @@
+{
+  "snapshot_id": "GALANA-2026-09-10-001",
+  "schema_version": 1,
+  "sha256": "3b3d1174add671f195540d474b614583a3348191b0b475387b43198d2a56d48d",
+  "bytes": 73728,
+  "fact_sales_rows": 15,
+  "csv_total_net": 10602000,
+  "sqlite_total_net": 10602000
+}

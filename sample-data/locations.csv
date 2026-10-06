@@ -1,0 +1,5 @@
+location_id,location_name,location_type,region_id,region_name
+MBA_DEPOT,Mombasa Depot,DEPOT,COAST,Coast
+NBO_WEST,Nairobi West,STATION,NAIROBI,Nairobi
+NBO_EAST,Nairobi East,STATION,NAIROBI,Nairobi
+KSM_STN,Kisumu Station,STATION,WESTERN,Western

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Galana Sales</string>
+    <string name="title_activity_main">Galana Sales</string>
+    <string name="package_name">com.galana.sales</string>
+    <string name="custom_url_scheme">com.galana.sales</string>
+</resources>

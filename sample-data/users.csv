@@ -1,0 +1,5 @@
+username,display_name,role_code,password,active
+EXEC01,Executive User,EXECUTIVE,exec123,1
+MBA01,Mombasa Manager,DEPOT_MANAGER,mba123,1
+NBO01,Nairobi Regional Manager,REGIONAL_MANAGER,nbo123,1
+OLD01,Inactive User,VIEWER,old123,0

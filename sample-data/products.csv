@@ -1,0 +1,6 @@
+product_id,product_name,category,uom
+DIESEL,Diesel,FUEL,L
+PETROL,Petrol,FUEL,L
+KEROSENE,Kerosene,FUEL,L
+ENG15W40,Engine Oil 15W40,LUBRICANT,L
+GEAROIL,Gear Oil,LUBRICANT,L

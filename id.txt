@@ -1,0 +1,5 @@
+User	Password	Access
+EXEC01	exec123	all data
+MBA01	mba123	Mombasa Depot only
+NBO01	nbo123	the two Nairobi stations
+OLD01	old123	login denied (inactive)

@@ -1,0 +1,32 @@
+{
+  "name": "galana-sales-mobile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "snapshot": "tsx scripts/build-snapshot.ts",
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@capacitor/core": "^8.5.2",
+    "@capacitor/filesystem": "^8.1.4",
+    "@capacitor/share": "^8.0.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "sql.js": "^1.10.3"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/cli": "^8.5.2",
+    "@types/node": "^22.0.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@types/sql.js": "^1.4.9",
+    "@vitejs/plugin-react": "^6.1.2",
+    "tsx": "^4.16.0",
+    "typescript": "^5.5.0",
+    "vite": "^8.3.2",
+    "vitest": "^5.0.3"
+  }
+}
